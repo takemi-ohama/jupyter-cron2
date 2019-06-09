@@ -1,7 +1,6 @@
 From ietty/jupyter
 
-
-LABEL MAINTAINER="takemi.ohama" <takemi.ohama@gmail.com>
+LABEL MAINTAINER="takemi.ohama <takemi.ohama@gmail.com>"
 
 USER root
 
